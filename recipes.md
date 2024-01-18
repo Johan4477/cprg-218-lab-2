@@ -81,6 +81,7 @@ Ingredients:
 - Lettuce
 - Tomato
 - Mayonnaise
+-Bell pepper
 
 Instructions:
 1. Preheat grill to medium-high heat.
